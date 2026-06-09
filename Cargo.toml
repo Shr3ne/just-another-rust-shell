@@ -1,0 +1,8 @@
+[package]
+name = "rs-shell"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.10.1"
+reedline = "0.48.0"
