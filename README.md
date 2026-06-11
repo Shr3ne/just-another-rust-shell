@@ -40,7 +40,7 @@ Run it with `cargo run`.
 
 ## Todo
 
-- [ ] Pipelines &nbsp;`cmd1 | cmd2`
+- [ x ] Pipelines &nbsp;`cmd1 | cmd2`
 - [ ] Tab autocomplete for commands and paths
 - [ ] I/O redirection &nbsp;`>` &nbsp;`>>` &nbsp;`<`
 - [ ] Environment variable expansion &nbsp;`$VAR`
